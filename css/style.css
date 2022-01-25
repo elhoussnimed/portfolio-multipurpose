@@ -207,6 +207,9 @@ header .container nav ul li a:hover {
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
+  header {
+    height: 50vh;
+  }
   header .shape-header-left {
     top: 0%;
     height: 100%;
@@ -378,6 +381,9 @@ section.top-shapes .other-text p {
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
+  section.top-shapes {
+    height: 50vh;
+  }
   section.top-shapes .big-image {
     width: 35em;
     height: 35em;
