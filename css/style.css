@@ -332,7 +332,7 @@ section.top-shapes .other-text p {
 }
 @media (max-width: 767px) {
   section.top-shapes {
-    margin-bottom: 25em;
+    margin-bottom: 22em;
     height: 50vh;
   }
   section.top-shapes .big-image {
@@ -349,7 +349,7 @@ section.top-shapes .other-text p {
     width: 20em;
     height: 15em;
     left: 50%;
-    top: 95%;
+    top: 80%;
     transform: translateX(-50%);
     z-index: -1;
   }
@@ -364,7 +364,7 @@ section.top-shapes .other-text p {
   section.top-shapes .other-text {
     width: 18em;
     height: 13em;
-    top: 165%;
+    top: 135%;
     left: 50%;
     transform: translateX(-50%);
     z-index: -2;
